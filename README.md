@@ -6,4 +6,4 @@ install matplotlib with
 to create a plot for color gradient
 
 --ax.set_aspect('equal') to make a square display for each cell
---plt.subplots_adjust(left=0,right=0.0445,wspace=0.4,hspace=0), adjust padding for the grid
+plt.subplots_adjust(left=0,right=0.0445,wspace=0.4,hspace=0), adjust padding for the grid
